@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Examples\Example04_Div\bin\Debug\net8.0\Example04_Div.exe
+C:\Users\ПК\Desktop\Examples\Example04_Div\bin\Debug\net8.0\Example04_Div.deps.json
+C:\Users\ПК\Desktop\Examples\Example04_Div\bin\Debug\net8.0\Example04_Div.runtimeconfig.json
+C:\Users\ПК\Desktop\Examples\Example04_Div\bin\Debug\net8.0\Example04_Div.dll
+C:\Users\ПК\Desktop\Examples\Example04_Div\bin\Debug\net8.0\Example04_Div.pdb
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.sourcelink.json
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.dll
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\refint\Example04_Div.dll
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.pdb
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\Example04_Div.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Examples\Example04_Div\obj\Debug\net8.0\ref\Example04_Div.dll
