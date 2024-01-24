@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.sourcelink.json
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\bin\Debug\net8.0\Example05_IfElse.exe
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\bin\Debug\net8.0\Example05_IfElse.deps.json
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\bin\Debug\net8.0\Example05_IfElse.runtimeconfig.json
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\bin\Debug\net8.0\Example05_IfElse.dll
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\bin\Debug\net8.0\Example05_IfElse.pdb
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.dll
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\refint\Example05_IfElse.dll
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.pdb
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\Example05_IfElse.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Examples\Example05_IfElse\obj\Debug\net8.0\ref\Example05_IfElse.dll
