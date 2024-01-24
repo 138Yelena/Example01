@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Examples\Example06_Base\bin\Debug\net8.0\Example06_Base.exe
+C:\Users\ПК\Desktop\Examples\Example06_Base\bin\Debug\net8.0\Example06_Base.deps.json
+C:\Users\ПК\Desktop\Examples\Example06_Base\bin\Debug\net8.0\Example06_Base.runtimeconfig.json
+C:\Users\ПК\Desktop\Examples\Example06_Base\bin\Debug\net8.0\Example06_Base.dll
+C:\Users\ПК\Desktop\Examples\Example06_Base\bin\Debug\net8.0\Example06_Base.pdb
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.sourcelink.json
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.dll
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\refint\Example06_Base.dll
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.pdb
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\Example06_Base.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Examples\Example06_Base\obj\Debug\net8.0\ref\Example06_Base.dll
